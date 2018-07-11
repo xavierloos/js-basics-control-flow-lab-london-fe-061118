@@ -10,7 +10,7 @@ function scuberGreetingForFeet(feet) {
   }
 }
 function ternaryCheckCity(city){
-  if(city != Pittsburgh){
-  }
    return 'Ok, sounds good.';
+    city == 
+  
 }
