@@ -6,3 +6,9 @@ function scuberGreetingForFeet(feet){
       return('I will gladly take your thirty bucks.')
     }
 }
+feet=2001
+function scuberGreetingForFeet(feet){
+    
+      console.log('I will gladly take your thirty bucks.')
+    
+}
